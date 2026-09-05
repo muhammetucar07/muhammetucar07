@@ -1,53 +1,29 @@
-## Hi there 👋
+# Merhaba 👋 — Muhammet UÇAR
 
-<!--
-**ucarrr/ucarrr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammetucar07&show_icons=true&theme=default)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammetucar07&layout=compact&theme=default)
 
-Here are some ideas to get you started:
+Yazılım geliştiricisiyim — Odoo ERP/CRM çözümleri ve Python üzerinde uzmanlaşıyorum.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### Welcome to my GitHub profile!
+## 🔭 Güncel odağım
+- Full‑stack Odoo geliştirme — özel modüller, entegrasyonlar ve özelleştirmeler (Python).
 
-I'm Muhammet UÇAR, a passionate software developer based in Antalya, Türkiye. I love exploring new technologies and continuously improving my skills. Here you can find my projects and contributions.
+## 🌱 Şu an çalıştığım/incelediğim alanlar
+- Odoo modül geliştirme, XML/QWeb ve Python ile backend geliştirme
 
-- 🔭 I’m currently working on **Full Stack Odoo Development**, focusing on Odoo platform customizations using Python (Django).
-- 🌱 I’m currently learning **.Net Core**
-<!-- 🚀 I’m interested in  **React Native** and **NestJs** -->
-<!-- 👯 I’m looking to collaborate on **open-source projects** and innovative mobile applications.-->
-<!-- 🤔 I’m looking for help with **IoT projects** and **cross-platform mobile development**.-->
-- 💬 Ask me about **Python
-- 📫 How to reach me: 
-  - Email: ucaaar07@gmail.com
-  - LinkedIn: [Muhammet UÇAR](https://www.linkedin.com/in/muhammet-ucar/)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love hiking in my free time.
+## 🛠️ Teknolojiler & Yetenekler
 
-### My Skills
+### Ana odak
+- Odoo · Python · ERP/CRM özelleştirmeleri · Modül geliştirme · XML/QWeb
 
-#### Frontend Development
-- HTML
-- CSS
-- JavaScript
-- TypeScript
+### Diğer deneyimler
+- Frontend: HTML · CSS · JavaScript · TypeScript
+- Veri tabanları: MySQL · MongoDB · Firebase
+- Araçlar: Git · Docker · REST API tasarımı
 
+## 📫 İletişim
+- Email: ucaaar07@gmail.com  
+- LinkedIn: [Muhammet UÇAR](https://www.linkedin.com/in/muhammet-ucar/)
 
-#### Backend Development
-- Odoo ORM
-- Django
-- MVC
-- Python
- 
- 
-
-#### Databases
-- Firebase
-- MySQL
-- MongoDB
+## ⚡ Bir not
+Boş zamanlarımda doğa yürüyüşleri yapmayı seviyorum.
