@@ -2,17 +2,6 @@
 
 I’m a software developer focused on **Odoo ERP/CRM** solutions and **Python**.
 
-<table>
-  <tr>
-    <td align="center" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=muhammetucar07&show_icons=true&theme=default&hide_border=true" alt="GitHub stats" />
-    </td>
-    <td align="center" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammetucar07&layout=compact&theme=default&hide_border=true" alt="Top languages" />
-    </td>
-  </tr>
-</table>
-
 ## 🔭 Current focus
 - Full-stack Odoo development: custom modules, integrations, and tailored business solutions
 
